@@ -25,5 +25,11 @@
     }
   ],
   "options_page": "options.html",
-  "permissions": [ "storage" ]
+  "permissions": [ "storage" ],
+  "applications": {
+    "gecko": {
+      "id": "vpxify-firefox@singingtree.io",
+      "update_url": "https://example.com/updates.json"
+    }
+  }
 }
